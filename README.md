@@ -4,6 +4,14 @@
 ---
 ## 这位[作者](https://github.com/xyz66882/GitHub-repository)是原作者，由于原作者的代码不支持在CloudFlare搭建，所以做了二次修改。
 
+---
+  <p>
+    <a href="https://dash.cloudflare.com/?to=/:account/workers-and-pages/create">
+      <img src="https://deploy.workers.cloudflare.com/button" alt="点这里部署到Cloudflare Workers"/>
+    </a>
+  </p>
+
+
 ## 📋 功能列表
 
 ### 🔐 1. 用户认证
